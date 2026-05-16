@@ -13,7 +13,7 @@ This is a simple multi-page college website built using HTML5. The project is de
 
 ## 🛠️ Technologies Used
 - HTML5
-- CSS3 (if used in your project)
+- CSS3 (internal styling)
 
 ## 📁 Pages Included
 - CodebindHOME1.html (Home Page)
@@ -27,11 +27,8 @@ This is a simple multi-page college website built using HTML5. The project is de
 2. Open `CodebindHOME1.html` in any web browser
 3. Navigate through other pages using links
 
-## 📷 Preview
-(Add screenshot of your homepage here if needed)
-
 ## 👨‍💻 Author
 Sibithanr
 
 ## 📌 Note
-This project was created for learning purposes and demonstrates basic frontend web development using HTML.
+This project was created for learning purposes and demonstrates basic frontend web development using HTML and CSS3 (internal styling).
